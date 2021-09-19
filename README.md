@@ -1,5 +1,5 @@
 <div>
-  <p>-> 😀 Olá, eu sou Jocemar Hoppe Pereira</br>
+  <p>-> 😀 Olá, eu sou <strong>Jocemar Hoppe Pereira</strong></br>
      -> 📗 Estudante de Ciência da Computação - UNISC</br>
      -> 📘 Estudante de Analise e Desenvolvimento de Sistema - UNISC</br>
      -> 💻 Estou estudando Javascript, Vue.JS</br>
